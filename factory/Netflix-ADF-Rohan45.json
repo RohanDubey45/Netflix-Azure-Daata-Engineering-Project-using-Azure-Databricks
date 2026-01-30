@@ -1,0 +1,9 @@
+{
+	"name": "Netflix-ADF-Rohan45",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1f107978-8305-4f58-be7f-7f794b47166d",
+		"tenantId": "8b9f4eaf-a4e8-42a6-b847-58903c75b282"
+	}
+}
